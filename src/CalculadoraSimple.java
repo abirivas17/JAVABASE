@@ -22,7 +22,7 @@ public class CalculadoraSimple {
         int mult = a * b;
         System.out.println("multiplicacion: " +mult);
 
-            //Division
+            //Division daviana 
         if (a != 0 && b != 0) {
             double division = (double) a / b;
             System.out.println("División: " + division);
